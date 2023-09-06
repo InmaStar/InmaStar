@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **InmaStar/InmaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Inma M Lobo
+
+## About me
+Hi there! 👋​
+
+I'm a game programmer and artist working at [Meteorbyte Studios](https://meteorbytestudios.com/).
+
+I've created [Running on Magic](https://youtu.be/Pe0p06DeFvc) along [David G. Vaquero](https://www.behance.net/davidgvaquero) as **Gusarapo Games**.
+
+Not only that, but I've done programming and porting for other games too.
+
+## Released games
+- [Laika: Aged through Blood](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/), Brainwash Gang (TBA).
+- [Death or Treat](https://store.steampowered.com/app/2096620/Death_or_Treat/), Saona Studios (2023) PC, Xbox One, Xbox Series X|S, Switch, PS4, PS5.
+- [Running on Magic](https://store.steampowered.com/app/1961260/Running_on_Magic/), Gusarapo Games, Meteorbyte Publishing (2022). PC, Xbox One, Xbox Series X|S, Switch, PS4, PS5.
+- [DeckRX: The Deckbuilding Racing Game](https://store.steampowered.com/app/1529180/Deck_RX_The_Deckbuilding_Racing_Game/), Meteorbyte Studios (To be Released, 2023). PC, consoles.
+- [Ignited Steel: Mech Tactics](https://store.steampowered.com/app/1550740/Ignited_Steel_Mech_Tactics/), Yokaicade, Meteorbyte Publishing (2022). PC, consoles TBA.
