@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 Hi there! 👋​
 
-I'm a game programmer and artist working at [Meteorbyte Studios](https://meteorbytestudios.com/).
+I'm a game programmer and artist.
 
 I've created [Running on Magic](https://youtu.be/Pe0p06DeFvc) along [David G. Vaquero](https://www.behance.net/davidgvaquero) as **Gusarapo Games**.
 
