@@ -25,7 +25,8 @@ I've created [Running on Magic](https://youtu.be/Pe0p06DeFvc) along [David G. Va
 Not only that, but I've done programming and porting for other games too.
 
 ## Released games
-- [Laika: Aged through Blood](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/), Brainwash Gang (TBA).
+- [Songs of Steel: Hispania](https://store.steampowered.com/app/2603300/Songs_of_Steel_Hispania/), Meteorbyte Studios (2024).
+- [Laika: Aged through Blood](https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/), Brainwash Gang (2023).
 - [Death or Treat](https://store.steampowered.com/app/2096620/Death_or_Treat/), Saona Studios (2023) PC, Xbox One, Xbox Series X|S, Switch, PS4, PS5.
 - [Running on Magic](https://store.steampowered.com/app/1961260/Running_on_Magic/), Gusarapo Games, Meteorbyte Publishing (2022). PC, Xbox One, Xbox Series X|S, Switch, PS4, PS5.
 - [DeckRX: The Deckbuilding Racing Game](https://store.steampowered.com/app/1529180/Deck_RX_The_Deckbuilding_Racing_Game/), Meteorbyte Studios (To be Released, 2023). PC, consoles.
